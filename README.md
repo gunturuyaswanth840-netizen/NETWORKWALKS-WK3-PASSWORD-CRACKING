@@ -34,7 +34,19 @@ Used the **NetworkWalks Password Cracker** with the provided password hash and b
 - How dictionary-based password cracking works.
 - How to use John the Ripper and Johnny.
 - The importance of strong and unique passwords.
+## Evidence
 
+### W3-PM1 – John the Ripper / Johnny
+
+![Johnny PDF Result](./johny%20pdf1.png)
+
+### W3-PM2 – NetworkWalks Password Cracker
+
+![NetworkWalks Password Cracker](./NW%20methods.png)
+
+### Additional Evidence
+
+![Additional Evidence](./Screenshot%202026-11-26%20160610.png)
 
 ## Author
 
